@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9201" started-at="2019-04-20T01:46:43Z" finished-at="2019-04-20T01:46:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9201" started-at="2019-04-20T01:46:43Z" finished-at="2019-04-20T01:46:53Z">
+      <class name="com.walgreens.testLayer.ShoppingCartTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.walgreens.testLayer.ShoppingCartTest@4145bad8]" name="setUp" is-config="true" duration-ms="3635" started-at="2019-04-20T01:46:43Z" finished-at="2019-04-20T01:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.walgreens.testLayer.ShoppingCartTest@4145bad8]" name="test" duration-ms="5440" started-at="2019-04-20T01:46:47Z" finished-at="2019-04-20T01:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.walgreens.testLayer.ShoppingCartTest@4145bad8]" name="tearDown" is-config="true" duration-ms="94" started-at="2019-04-20T01:46:52Z" finished-at="2019-04-20T01:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.walgreens.testLayer.ShoppingCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
